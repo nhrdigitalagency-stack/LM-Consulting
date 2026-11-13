@@ -1,0 +1,221 @@
+{
+  "_validations_a_confirmer": {
+    "nom_marque": "Confirmé par le client : LM CONSULTING",
+    "email_principal": "lmconsulting685@gmail.com (affiche officielle LM Consulting)",
+    "whatsapp_actif": "TODO_CONFIRMER : vérifier que le (+237) 695 491 296 est bien actif sur WhatsApp Business",
+    "facebook_url": "TODO_CONFIRMER : vérifier l'URL exacte de la page Facebook lm consulting",
+    "domaine_officiel": "TODO_CONFIRMER : nom de domaine définitif (ex. lmconsulting-cm.com)",
+    "adresses_horaires_gps": "TODO_CONFIRMER : étages/bureaux exacts, horaires d'ouverture précis et coordonnées GPS exactes à Yaoundé (Immeuble ADJAL Warda) et Douala (Immeuble ONCPB Bonanjo)",
+    "chiffres_cles": "TODO_CONFIRMER : +120 entreprises accompagnées, 95 % de clients satisfaits, 5 ans d'existence",
+    "pole_digitalisation": "TODO_CONFIRMER : maintien ou retrait du pôle Digitalisation (logiciels, applications web, sécurité informatique)"
+  },
+  "brand": {
+    "name": "LM CONSULTING",
+    "legalMentionName": "LM CONSULTING",
+    "baseline": "Un réel plaisir de vous accompagner",
+    "shortPositioning": "Cabinet de conseil, de mise à niveau et de structuration financière des entreprises au Cameroun.",
+    "engagement": "Accompagnement personnalisé et de qualité dans la réalisation de vos projets et l'atteinte de vos objectifs d'entreprise.",
+    "logoPath": "/assets/photos/logo-lm-consulting.png",
+    "logoFallbackPath": "/assets/photos/logo-lm-consulting.png"
+  },
+  "flags": {
+    "enableTestimonials": false,
+    "enableClientLogos": false,
+    "enableDigitalisationService": true,
+    "plannedLocales": ["fr", "en"],
+    "defaultLocale": "fr"
+  },
+  "contact": {
+    "phones": [
+      {
+        "display": "(+237)\u00A0695\u00A0491\u00A0296",
+        "tel": "+237695491296",
+        "label": "Ligne directe & direction",
+        "isWhatsapp": true
+      },
+      {
+        "display": "(+237)\u00A0653\u00A0808\u00A0106",
+        "tel": "+237653808106",
+        "label": "Secrétariat & suivi dossiers",
+        "isWhatsapp": false
+      }
+    ],
+    "whatsappUrl": "https://wa.me/237695491296",
+    "email": "lmconsulting685@gmail.com",
+    "secondaryReferenceEmail": "mlconsulting.area@gmail.com",
+    "facebookName": "lm consulting",
+    "facebookUrl": "https://www.facebook.com/lmconsulting"
+  },
+  "hero": {
+    "h1": "Cabinet de conseil et de mise à niveau des entreprises au Cameroun",
+    "visualHook": "Structurer. Financer. Durer.",
+    "visualHookVariants": [
+      "Structurer. Financer. Durer.",
+      "La rigueur comptable au service de vos décisions.",
+      "Mettre votre entreprise en ordre de marche."
+    ],
+    "subtitle": "Depuis nos bureaux de Yaoundé (Warda) et de Douala (Bonanjo), nous accompagnons les dirigeants de PME, les entrepreneurs et les porteurs de projets dans leur organisation comptable, leurs obligations fiscales et leurs démarches de financement.",
+    "primaryCta": {
+      "label": "Planifier un échange",
+      "href": "/contact"
+    },
+    "secondaryCta": {
+      "label": "Découvrir nos services",
+      "href": "/services"
+    },
+    "architecturalPlateCaption": "Yaoundé (Immeuble ADJAL Warda) · Douala (Immeuble ONCPB, Bonanjo)"
+  },
+  "positioning": {
+    "sectionNumber": "01",
+    "label": "Positionnement",
+    "scrubStatement": "Beaucoup d'entreprises camerounaises disposent d'un marché réel mais butent sur trois obstacles précis\u00A0: une comptabilité reconstituée dans l'urgence, une pression fiscale mal anticipée et des dossiers de crédit rejetés faute d'états financiers probants. Notre métier consiste à remettre ces fondations d'équerre.",
+    "supportingNote": "Nous intervenons aussi bien en redressement organisationnel qu'en accompagnement régulier auprès des directions générales et financières."
+  },
+  "metrics": [
+    {
+      "id": "entreprises",
+      "prefix": "+",
+      "value": 120,
+      "suffix": "",
+      "label": "Entreprises accompagnées",
+      "detail": "PME, structures en croissance et porteurs de projets suivis au Cameroun."
+    },
+    {
+      "id": "satisfaction",
+      "prefix": "",
+      "value": 95,
+      "suffix": "\u00A0%",
+      "label": "Clients satisfaits",
+      "detail": "Fidélité mesurée sur la continuité des missions comptables, fiscales et stratégiques."
+    },
+    {
+      "id": "experience",
+      "prefix": "",
+      "value": 5,
+      "suffix": "\u00A0ans",
+      "label": "Années d'existence du cabinet",
+      "detail": "Pratique continue sur le terrain économique de Yaoundé et de Douala."
+    }
+  ],
+  "audiences": {
+    "sectionNumber": "03",
+    "label": "Publics accompagnés",
+    "heading": "Trois réalités d'entreprise, une même exigence de clarté financière",
+    "intro": "Nos interventions s'adaptent à la maturité de votre structure, sans alourdir votre fonctionnement quotidien.",
+    "profiles": [
+      {
+        "number": "I",
+        "title": "Dirigeants de PME établies",
+        "situation": "Votre chiffre d'affaires progresse, mais la visibilité sur les marges, la trésorerie ou les échéances fiscales reste partielle.",
+        "intervention": "Diagnostic stratégique global, mise en place de tableaux de bord mensuels, contrôle interne, régularisation fiscale et montage de la DSF.",
+        "recommendedServiceSlug": "mise-a-niveau-structuration-strategique",
+        "recommendedServiceLabel": "Voir la mise à niveau d'entreprise"
+      },
+      {
+        "number": "II",
+        "title": "Entrepreneurs en phase d'accélération",
+        "situation": "Vous sollicitez un concours bancaire, un crédit-bail ou un partenaire financier qui exige des projections cohérentes et des comptes certifiables.",
+        "intervention": "Audit financier préalable, structuration du business plan chiffré, constitution du dossier et accompagnement jusqu'à l'obtention du financement.",
+        "recommendedServiceSlug": "business-plan-et-financement",
+        "recommendedServiceLabel": "Voir l'accompagnement au financement"
+      },
+      {
+        "number": "III",
+        "title": "Porteurs de projets et créateurs",
+        "situation": "Vous lancez une activité au Cameroun et souhaitez éviter les erreurs de forme juridique, de régime fiscal ou d'organisation comptable initiale.",
+        "intervention": "Choix du cadre adapté, formalités de création d'entreprise, ouverture des obligations fiscales et CNPS, mise en route du plan comptable.",
+        "recommendedServiceSlug": "creation-d-entreprise",
+        "recommendedServiceLabel": "Voir la création d'entreprise"
+      }
+    ]
+  },
+  "methodology": {
+    "sectionNumber": "04",
+    "label": "Notre démarche",
+    "heading": "Quatre séquences de travail pour stabiliser puis développer votre activité",
+    "intro": "Chaque mission suit une progression lisible\u00A0: comprendre l'existant, installer les bons outils, consolider la rentabilité et préparer la suite.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Accompagnement initial",
+        "subtitle": "Conception, cadrage et lancement",
+        "description": "Examen des pièces existantes, revue de la situation comptable, fiscale et opérationnelle, puis définition d'un calendrier d'actions réaliste pour concevoir ou remettre à plat le projet.",
+        "deliverable": "Note de cadrage et plan d'actions priorisé"
+      },
+      {
+        "step": "02",
+        "title": "Développement",
+        "subtitle": "Outils de gestion et stratégies de croissance",
+        "description": "Déploiement des procédures comptables, des budgets prévisionnels, des dossiers de financement et des tableaux de suivi permettant de soutenir la progression commerciale sans perte de contrôle.",
+        "deliverable": "Tableaux de bord, procédures et dossiers structurés"
+      },
+      {
+        "step": "03",
+        "title": "Optimisation",
+        "subtitle": "Efficacité opérationnelle et rentabilité",
+        "description": "Analyse des coûts de revient, fiabilisation du contrôle interne, sécurisation des déclarations périodiques (impôts, CNPS, DSF) et formation ciblée de vos équipes internes.",
+        "deliverable": "États financiers fiabilisés et équipes autonomes"
+      },
+      {
+        "step": "04",
+        "title": "Innovation continue",
+        "subtitle": "Intégration technologique et évolution du marché",
+        "description": "Accompagnement à l'adoption de solutions fintech, dématérialisation des flux de paiement et mise à jour des outils de gestion face aux évolutions réglementaires et sectorielles.",
+        "deliverable": "Flux modernisés et veille d'adaptation continue"
+      }
+    ]
+  },
+  "values": {
+    "sectionNumber": "06",
+    "label": "Engagements & valeurs",
+    "heading": "Les principes qui encadrent chacune de nos missions",
+    "vision": "Offrir un service de qualité adapté aux besoins propres de chaque client, cultiver l'amélioration constante pour dépasser les attentes convenues, et s'inscrire durablement comme référence de la mise à niveau des entreprises au Cameroun et dans la sous-région.",
+    "items": [
+      {
+        "code": "01",
+        "title": "Expertise",
+        "description": "Pratique comptable, financière et fiscale entretenue par des formations régulières et une veille constante sur les textes applicables aux entreprises camerounaises."
+      },
+      {
+        "code": "02",
+        "title": "Innovation",
+        "description": "Travail continu de recherche et de mise au point méthodologique afin d'adapter les outils de gestion, d'analyse Excel et les solutions fintech aux réalités des PME."
+      },
+      {
+        "code": "03",
+        "title": "Confiance",
+        "description": "Restitution claire des travaux par des rapports de performance lisibles, respect strict de la confidentialité des chiffres et franchise sur les points de vigilance."
+      },
+      {
+        "code": "04",
+        "title": "Partenariat",
+        "description": "Construction de relations inscrites dans la durée, prolongées par des séminaires d'entreprise réguliers et un programme dédié à la formation des dirigeants de PME."
+      }
+    ],
+    "programs": {
+      "title": "Séminaires d'entreprise et formation des dirigeants",
+      "description": "Au-delà des missions individuelles, LM CONSULTING anime régulièrement des séminaires d'entreprise ainsi qu'un programme de renforcement des capacités destiné aux dirigeants de PME camerounaises et à leurs équipes comptables (lecture des états financiers, contrôle de gestion, maîtrise d'Excel avancé)."
+    }
+  },
+  "founder": {
+    "sectionNumber": "08",
+    "label": "Direction du cabinet",
+    "name": "Laurentine MVONDO",
+    "role": "Manager du cabinet LM CONSULTING",
+    "degree": "Licence professionnelle en gestion — option comptabilité et finance",
+    "photo": {
+      "webp": "/assets/photos/laurentine-mvondo-dirigeante.webp",
+      "jpg": "/assets/photos/laurentine-mvondo-dirigeante.jpg",
+      "width": 188,
+      "height": 290,
+      "alt": "Laurentine MVONDO, Manager du cabinet LM CONSULTING à Yaoundé et Douala"
+    },
+    "shortBio": "Titulaire d'une licence professionnelle en gestion (option comptabilité et finance), Laurentine MVONDO a exercé comme comptable puis comme directrice administrative et financière au sein de plusieurs entreprises avant de fonder son cabinet de conseil.",
+    "extendedBio": [
+      "Avant de prendre la direction de LM CONSULTING, Laurentine MVONDO a occupé successivement les fonctions de comptable et de directrice administrative et financière (DAF) dans de nombreuses entreprises camerounaises. Cette trajectoire opérationnelle lui confère une lecture directe des contraintes auxquelles font face les dirigeants\u00A0: tensions de trésorerie, clôtures comptables délicates, contrôles administratifs et négociations bancaires.",
+      "Diplômée d'une licence professionnelle en gestion (option comptabilité et finance), elle a choisi l'entrepreneuriat dans le conseil avec une conviction précise\u00A0: une PME ne grandit solidement que lorsque ses chiffres sont justes, compris par son dirigeant et opposables aux tiers financiers comme à l'administration.",
+      "À la tête du cabinet entre Yaoundé et Douala, elle supervise personnellement les diagnostics de mise à niveau, le montage des Déclarations statistiques et fiscales (DSF) et la préparation des dossiers de financement."
+    ],
+    "quote": "Un dirigeant bien entouré sur le plan comptable et financier prend des décisions plus calmes, plus rapides et mieux défendues devant ses partenaires."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "sectionNumber": "07",
+  "label": "Implantations au Cameroun",
+  "heading": "Deux bureaux d'accueil au cœur des pôles institutionnel et économique",
+  "intro": "LM CONSULTING reçoit les dirigeants sur rendez-vous à Yaoundé et à Douala, et intervient auprès d'entreprises établies sur l'ensemble du territoire camerounais.",
+  "offices": [
+    {
+      "slug": "yaounde",
+      "city": "Yaoundé",
+      "role": "Siège du cabinet",
+      "building": "Immeuble ADJAL Warda",
+      "district": "Quartier Warda, Centre administratif et commercial",
+      "region": "Région du Centre, Cameroun",
+      "fullAddress": "Immeuble ADJAL Warda, Yaoundé, Cameroun",
+      "schedule": "Lundi au vendredi · sur rendez-vous (horaires détaillés confirmés lors de la prise de contact)",
+      "phones": [
+        {
+          "display": "(+237)\u00A0695\u00A0491\u00A0296",
+          "tel": "+237695491296"
+        },
+        {
+          "display": "(+237)\u00A0653\u00A0808\u00A0106",
+          "tel": "+237653808106"
+        }
+      ],
+      "email": "lmconsulting685@gmail.com",
+      "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Immeuble+ADJAL+Warda+Yaounde+Cameroun",
+      "missingPhotoCaption": "Photographie de façade — Immeuble ADJAL Warda, Yaoundé (prise de vue cabinet à intégrer)",
+      "seo": {
+        "title": "Cabinet de conseil à Yaoundé (Warda) | LM Consulting",
+        "description": "Conseil en gestion, montage DSF, suivi fiscal et comptable, business plan et création d'entreprise à Yaoundé, Immeuble ADJAL Warda.",
+        "h1": "Cabinet de conseil et d'accompagnement des entreprises à Yaoundé"
+      },
+      "presentation": [
+        "Implanté à l'Immeuble ADJAL au quartier Warda, le siège de LM CONSULTING à Yaoundé accompagne les PME, les prestataires de marchés publics et privés, les structures commerciales ainsi que les porteurs de projets de la capitale et de la région du Centre.",
+        "La proximité immédiate des administrations centrales et des établissements financiers facilite le suivi rigoureux des formalités de création d'entreprise, la régularisation des situations fiscales et sociales, ainsi que la préparation des dossiers de financement."
+      ],
+      "keyFocusAreas": [
+        "Diagnostic stratégique global et mise à niveau des PME établies à Yaoundé",
+        "Tenue comptable, déclarations fiscales périodiques, suivi CNPS et montage annuel de la DSF",
+        "Structuration de business plans et accompagnement auprès des banques et guichets de financement",
+        "Création d'entreprise et formation des équipes au contrôle de gestion et à Excel avancé"
+      ],
+      "accessNote": "Le quartier Warda est directement accessible depuis le centre-ville de Yaoundé, Bastos et l'axe du Boulevard du 20 Mai. Merci de convenir d'un créneau préalable par téléphone ou via le formulaire afin de garantir la disponibilité d'un consultant senior.",
+      "mapVector": {
+        "title": "Repère urbain — Quartier Warda, Yaoundé",
+        "avenues": [
+          { "d": "M 40 210 L 560 95", "name": "Axe Warda — Centre-ville", "labelX": 175, "labelY": 152 },
+          { "d": "M 190 30 L 310 290", "name": "Vers Bastos / Nlongkak", "labelX": 295, "labelY": 62 },
+          { "d": "M 85 265 L 545 245", "name": "Vers Boulevard du 20 Mai", "labelX": 410, "labelY": 274 }
+        ],
+        "pinX": 262,
+        "pinY": 161,
+        "pinLabel": "Immeuble ADJAL Warda",
+        "pinSublabel": "Siège LM CONSULTING"
+      }
+    },
+    {
+      "slug": "douala",
+      "city": "Douala",
+      "role": "Bureau littoral & pôle économique",
+      "building": "Immeuble ONCPB",
+      "district": "Quartier administratif et financier de Bonanjo",
+      "region": "Région du Littoral, Cameroun",
+      "fullAddress": "Immeuble ONCPB, Bonanjo, Douala, Cameroun",
+      "schedule": "Lundi au vendredi · sur rendez-vous (horaires détaillés confirmés lors de la prise de contact)",
+      "phones": [
+        {
+          "display": "(+237)\u00A0695\u00A0491\u00A0296",
+          "tel": "+237695491296"
+        },
+        {
+          "display": "(+237)\u00A0653\u00A0808\u00A0106",
+          "tel": "+237653808106"
+        }
+      ],
+      "email": "lmconsulting685@gmail.com",
+      "googleMapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Immeuble+ONCPB+Bonanjo+Douala+Cameroun",
+      "missingPhotoCaption": "Photographie de façade — Immeuble ONCPB, Bonanjo, Douala (prise de vue cabinet à intégrer)",
+      "seo": {
+        "title": "Cabinet de conseil à Douala (Bonanjo) | LM Consulting",
+        "description": "Mise à niveau de PME, conseil fiscal et comptable, montage DSF, contrôle de gestion et recherche de financement à Douala Bonanjo (Immeuble ONCPB).",
+        "h1": "Cabinet de conseil, gestion et fiscalité des entreprises à Douala (Bonanjo)"
+      },
+      "presentation": [
+        "Situé à l'Immeuble ONCPB au cœur du quartier d'affaires de Bonanjo, notre bureau de Douala répond aux besoins opérationnels des entreprises industrielles, commerciales, logistiques et de services actives dans la capitale économique du Cameroun.",
+        "Dans un environnement marqué par la rapidité des cycles d'exploitation et des flux de trésorerie, nous aidons les dirigeants du Littoral à fiabiliser leur contrôle de gestion, sécuriser leurs échéances fiscales et présenter des dossiers financiers solides devant les directions bancaires installées à Bonanjo et Akwa."
+      ],
+      "keyFocusAreas": [
+        "Contrôle de gestion, calcul des marges, tableaux de bord et contrôle interne pour PME du Littoral",
+        "Audit financier, révision des comptes, déclarations fiscales mensuelles et montage de la DSF",
+        "Dossiers de crédit d'investissement ou de trésorerie et accompagnement bancaire à Douala",
+        "Intégration de solutions fintech et modernisation des encaissements et rapprochements"
+      ],
+      "accessNote": "L'Immeuble ONCPB se situe au centre de Bonanjo, à proximité immédiate des sièges bancaires, des institutions consulaires et de l'axe reliant Akwa au plateau administratif. Prise de rendez-vous recommandée avant votre déplacement.",
+      "mapVector": {
+        "title": "Repère urbain — Plateau de Bonanjo, Douala",
+        "avenues": [
+          { "d": "M 55 195 L 550 120", "name": "Avenue du Général de Gaulle", "labelX": 175, "labelY": 146 },
+          { "d": "M 295 35 L 365 285", "name": "Axe Bonanjo — Akwa", "labelX": 395, "labelY": 72 },
+          { "d": "M 70 255 L 520 265", "name": "Secteur Portuaire / Administratif", "labelX": 205, "labelY": 282 }
+        ],
+        "pinX": 325,
+        "pinY": 154,
+        "pinLabel": "Immeuble ONCPB, Bonanjo",
+        "pinSublabel": "Bureau LM CONSULTING Douala"
+      }
+    }
+  ]
+}

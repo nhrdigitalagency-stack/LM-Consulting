@@ -1,0 +1,79 @@
+{
+  "sectionNumber": "10",
+  "label": "Questions fréquentes",
+  "heading": "Réponses aux questions que nous posent le plus souvent les dirigeants",
+  "items": [
+    {
+      "id": "faq-premier-echange",
+      "category": "accompagnement",
+      "question": "Comment se déroule un premier échange avec votre cabinet à Yaoundé ou à Douala\u00A0?",
+      "answer": "Le premier rendez-vous — dans nos bureaux de l'Immeuble ADJAL Warda à Yaoundé, de l'Immeuble ONCPB à Bonanjo (Douala), ou par téléphone — permet de faire le point sur votre situation actuelle, vos échéances prioritaires et les pièces disponibles. À l'issue de cet entretien, nous vous adressons une proposition d'intervention détaillant le périmètre exact, les livrables attendus et le calendrier."
+    },
+    {
+      "id": "faq-mise-a-niveau",
+      "category": "accompagnement",
+      "question": "Qu'appelez-vous concrètement la «\u00A0mise à niveau\u00A0» d'une entreprise\u00A0?",
+      "answer": "La mise à niveau consiste à aligner l'organisation interne, la tenue comptable, la conformité fiscale et le pilotage financier d'une entreprise sur les exigences de son activité réelle et de ses partenaires (banques, investisseurs, grands donneurs d'ordre). Elle commence toujours par un diagnostic stratégique et financier global avant de déployer un plan de structuration pragmatique."
+    },
+    {
+      "id": "faq-retard-comptable-fiscal",
+      "category": "fiscalite",
+      "question": "Pouvez-vous intervenir si notre comptabilité ou nos déclarations fiscales présentent du retard\u00A0?",
+      "answer": "Oui. Une part importante de nos missions porte sur la reconstitution comptable, l'apurement des suspens et la régularisation ordonnée des obligations fiscales et sociales (CNPS). Nous établissons d'abord un état précis des déclarations manquantes ou rectificatives afin de sécuriser votre dossier avant le dépôt de la DSF."
+    },
+    {
+      "id": "faq-montage-dsf",
+      "category": "fiscalite",
+      "question": "Quand faut-il préparer le montage de la Déclaration statistique et fiscale (DSF)\u00A0?",
+      "answer": "La qualité d'une DSF se prépare en amont de la clôture annuelle par le pointage régulier des comptes, des immobilisations, des stocks et des rapprochements bancaires. Nous pouvons soit assurer le suivi comptable périodique tout au long de l'exercice, soit intervenir spécifiquement pour la révision des comptes et le montage complet de votre DSF dans le respect des délais légaux au Cameroun."
+    },
+    {
+      "id": "faq-controle-fiscal",
+      "category": "fiscalite",
+      "question": "Comment sécuriser l'entreprise face à un contrôle fiscal ou social (DGI / CNPS)\u00A0?",
+      "answer": "La prévention repose sur trois réflexes\u00A0: justifier chaque écriture par une pièce probante conforme, vérifier la cohérence entre le chiffre d'affaires déclaré à la TVA/IS et les flux bancaires, et conserver un tableau d'ajustement périodique des retenues à la source et cotisations CNPS. En cas de notification ou de vérification de comptabilité, nous préparons le dossier justificatif technique avec votre direction."
+    },
+    {
+      "id": "faq-regime-fiscal-cameroun",
+      "category": "fiscalite",
+      "question": "Quelles sont les obligations mensuelles selon le régime d'imposition (IGS, Réel simplifié, Réel)\u00A0?",
+      "answer": "Les obligations varient selon votre chiffre d'affaires annuel et votre régime d'imposition\u00A0: acomptes d'impôt sur les sociétés ou d'IRPP, TVA pour les assujettis, retenues sur salaires (IRPP, CFC, FNE, TDLs) et déclarations sociales CNPS avant les dates butoirs mensuelles. Dès notre prise en charge, nous établissons un calendrier fiscal personnalisé évitant toute pénalité de retard."
+    },
+    {
+      "id": "faq-business-plan-financement",
+      "category": "financement",
+      "question": "Accompagnez-vous le dirigeant après la rédaction du business plan\u00A0?",
+      "answer": "Oui. Un business plan isolé suffit rarement à débloquer un crédit. Notre accompagnement couvre l'étude de faisabilité chiffrée, la constitution complète du dossier de financement, l'identification des interlocuteurs financiers pertinents (banques commerciales, établissements de crédit-bail, institutions financières) et l'appui technique lors des comités de crédit jusqu'à l'aboutissement de la démarche."
+    },
+    {
+      "id": "faq-criteres-banques-financement",
+      "category": "financement",
+      "question": "Quels éléments les banques camerounaises examinent-elles en priorité avant d'accorder un crédit\u00A0?",
+      "answer": "Les analystes de crédit évaluent d'abord la cohérence des trois dernières DSF ou situations comptables, la capacité d'autofinancement nette face aux échéances futures, la maîtrise du besoin en fonds de roulement (BFR), l'attestation de conformité fiscale et les garanties réelles. Nous préparons chacun de ces indicateurs en amont du dépôt bancaire."
+    },
+    {
+      "id": "faq-fintech-mobile-money",
+      "category": "comptabilite",
+      "question": "Comment intégrer nos encaissements Mobile Money et paiements digitaux dans la comptabilité OHADA\u00A0?",
+      "answer": "Les portefeuilles marchands (Orange Money, MTN MoMo, agrégateurs de paiement) doivent être traités comme de véritables comptes de trésorerie dédiés au nom de l'entreprise. Nous mettons en place des journaux de rapprochement spécifiques qui isolent les ventes brutes, les commissions opérateurs et les versements sur compte bancaire afin de garantir une piste d'audit irréprochable."
+    },
+    {
+      "id": "faq-taille-entreprise",
+      "category": "accompagnement",
+      "question": "Travaillez-vous uniquement avec des entreprises déjà constituées\u00A0?",
+      "answer": "Non. Nous accompagnons aussi bien des PME en activité depuis plusieurs exercices que des entrepreneurs individuels souhaitant se structurer en SARL ou SA, ainsi que des porteurs de projets et investisseurs de la diaspora en phase de création d'entreprise au Cameroun."
+    },
+    {
+      "id": "faq-collaboration-comptable-interne",
+      "category": "comptabilite",
+      "question": "Pouvez-vous travailler en binôme avec notre comptable interne\u00A0?",
+      "answer": "Tout à fait. Dans de nombreuses PME à Yaoundé et Douala, l'équipe interne assure la saisie quotidienne et la facturation tandis que LM CONSULTING intervient en supervision mensuelle, contrôle les déclarations fiscales, forme les collaborateurs sur Excel avancé et finalise les travaux d'inventaire et la DSF annuelle."
+    },
+    {
+      "id": "faq-confidentialite",
+      "category": "comptabilite",
+      "question": "Comment la confidentialité de nos documents comptables et bancaires est-elle assurée\u00A0?",
+      "answer": "L'ensemble des pièces comptables, relevés bancaires, contrats et données salariales communiqués au cabinet est traité avec une stricte obligation de réserve professionnelle. L'accès aux dossiers est limité aux intervenants directement chargés de votre mission sous la supervision de la direction du cabinet."
+    }
+  ]
+}

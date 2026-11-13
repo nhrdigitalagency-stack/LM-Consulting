@@ -1,0 +1,569 @@
+{
+  "sectionNumber": "02",
+  "label": "Domaines d'intervention",
+  "heading": "Nos pôles d'expertise comptable, fiscale, financière et stratégique",
+  "intro": "Nous intervenons sur les fonctions vitales de l'entreprise camerounaise\u00A0: lisibilité des comptes, respect des obligations déclaratives, maîtrise des marges et capacité à mobiliser des financements.",
+  "services": [
+    {
+      "number": "01",
+      "slug": "mise-a-niveau-structuration-strategique",
+      "shortTitle": "Mise à niveau et structuration stratégique",
+      "title": "Mise à niveau et structuration stratégique des entreprises au Cameroun",
+      "category": "Stratégie & Organisation",
+      "requiresConfirmation": false,
+      "previewPalette": {
+        "ground": "#0B113A",
+        "accent": "#D9A441",
+        "caption": "Diagnostic global · Audit financier · Plan de restructuration"
+      },
+      "seo": {
+        "title": "Mise à niveau d'entreprise au Cameroun | LM Consulting",
+        "description": "Diagnostic stratégique global, audit financier et restructuration de PME à Yaoundé et Douala pour fiabiliser vos comptes et votre gouvernance."
+      },
+      "summary": "Diagnostic stratégique global, audit financier approfondi et plans de restructuration adaptés aux PME qui changent d'échelle ou traversent une phase de tension.",
+      "introduction": [
+        "Lorsqu'une PME grandit vite ou subit un ralentissement conjoncturel, le décalage entre son activité commerciale réelle et son organisation interne finit toujours par coûter cher\u00A0: décisions prises sans état de trésorerie fiable, tâches mal réparties entre la caisse et la comptabilité, retards documentaires qui bloquent l'accès aux marchés ou aux concours bancaires.",
+        "Notre mission de mise à niveau à Yaoundé, Douala et sur l'ensemble du Cameroun ne consiste pas à rédiger un rapport théorique. Nous passons en revue l'ensemble de vos cycles opérationnels et financiers afin d'identifier les fragilités concrètes, puis nous conduisons avec vous les ajustements nécessaires pour remettre l'entreprise en ordre de marche.",
+        "Ce travail prépare également votre structure aux exigences des programmes nationaux et internationaux de mise à niveau, des établissements de crédit et des grands donneurs d'ordre qui auditent la solidité administrative de leurs fournisseurs."
+      ],
+      "deliverables": [
+        {
+          "title": "Rapport de diagnostic stratégique et organisationnel",
+          "detail": "Analyse documentée de la gouvernance, du cycle ventes-achats-trésorerie, de la répartition des responsabilités et des risques opérationnels."
+        },
+        {
+          "title": "Audit financier et revue de sincérité des comptes",
+          "detail": "Examen de la structure bilantielle, du besoin en fonds de roulement (BFR), de l'endettement, de la rentabilité réelle par activité et des passifs latents."
+        },
+        {
+          "title": "Plan de restructuration chiffré et séquencé",
+          "detail": "Feuille de route opérationnelle à 3, 6 et 12 mois précisant les mesures prioritaires, les responsables désignés et les indicateurs de redressement."
+        },
+        {
+          "title": "Manuel de procédures essentielles",
+          "detail": "Formalisation des règles d'engagement des dépenses, de facturation, de gestion de caisse et de validation hiérarchique."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Collecte documentaire et entretiens sur site",
+          "detail": "Rencontre avec la direction et les responsables opérationnels, revue des états financiers antérieurs, des relevés bancaires et des contrats structurants."
+        },
+        {
+          "step": "02",
+          "title": "Diagnostic croisé financier, fiscal et opérationnel",
+          "detail": "Mise en évidence des écarts de marge, des goulots d'étranglement administratifs et des expositions aux risques fiscaux ou sociaux."
+        },
+        {
+          "step": "03",
+          "title": "Arbitrage du plan de mise à niveau avec le dirigeant",
+          "detail": "Présentation transparente des constats et sélection des actions à impact immédiat sur la trésorerie et la lisibilité des comptes."
+        },
+        {
+          "step": "04",
+          "title": "Accompagnement au déploiement et revue d'étape",
+          "detail": "Appui à la mise en application auprès de vos équipes et contrôle périodique de l'avancement des mesures retenues."
+        }
+      ],
+      "audience": [
+        "PME familiales ou indépendantes dont la structure administrative n'a pas suivi la hausse du chiffre d'affaires.",
+        "Entreprises confrontées à une érosion de leurs marges ou à des tensions récurrentes de trésorerie malgré un carnet de commandes actif.",
+        "Sociétés souhaitant se qualifier auprès de bailleurs, de programmes de mise à niveau ou de partenaires institutionnels."
+      ],
+      "faq": [
+        {
+          "question": "Quelle est la durée habituelle d'un diagnostic de mise à niveau\u00A0?",
+          "answer": "Selon la taille de l'entreprise et l'état de classement des pièces comptables, la phase de diagnostic initial s'étend généralement sur deux à quatre semaines, suivie d'un accompagnement modulable pour l'exécution du plan d'actions."
+        },
+        {
+          "question": "Intervenez-vous en cas de difficultés financières déjà avérées\u00A0?",
+          "answer": "Oui. Plus le diagnostic intervient tôt, plus les marges de manœuvre sont larges. Nous aidons alors le dirigeant à distinguer les activités rentables des postes déficitaires et à préparer un plan d'apurement crédible vis-à-vis de ses créanciers."
+        }
+      ],
+      "relatedSlugs": ["conseil-en-gestion-controle", "conseil-fiscal-et-comptable", "business-plan-et-financement"],
+      "relatedResourceSlug": "mise-a-niveau-d-entreprise-par-ou-commencer"
+    },
+    {
+      "number": "02",
+      "slug": "conseil-en-gestion-controle",
+      "shortTitle": "Conseil en gestion et contrôle interne",
+      "title": "Conseil en gestion, contrôle interne et tableaux de bord pour PME",
+      "category": "Pilotage & Performance",
+      "requiresConfirmation": false,
+      "previewPalette": {
+        "ground": "#111742",
+        "accent": "#F29A1F",
+        "caption": "Contrôle de gestion · Tableaux de bord · Formation Excel avancé"
+      },
+      "seo": {
+        "title": "Conseil en gestion & contrôle de gestion | LM Consulting",
+        "description": "Tableaux de bord, contrôle de gestion, audit interne et formation Excel avancé pour dirigeants et équipes financières à Yaoundé et Douala."
+      },
+      "summary": "Mise en place du contrôle de gestion, conception de tableaux de bord mensuels, renforcement du contrôle interne, audit opérationnel et formation Excel avancé.",
+      "introduction": [
+        "Attendre la clôture annuelle pour découvrir le résultat réel d'une entreprise expose le dirigeant à piloter à l'aveugle pendant douze mois. Sans suivi analytique des coûts, une hausse des ventes peut masquer une dégradation continue de la rentabilité ou des fuites opérationnelles sur les stocks et les achats.",
+        "Notre pôle Conseil en gestion installe au sein de votre PME des instruments de mesure simples, robustes et directement exploitables\u00A0: calcul des coûts de revient, budgets prévisionnels, suivi mensuel des écarts et procédures de contrôle interne limitant les erreurs comme les risques de fraude.",
+        "Parce qu'un outil n'est utile que s'il est maîtrisé en interne, nous complétons nos interventions par des sessions de formation pratique sur Excel avancé et l'analyse de données financières destinées à vos comptables, contrôleurs et responsables d'exploitation."
+      ],
+      "deliverables": [
+        {
+          "title": "Tableaux de bord de direction sur mesure",
+          "detail": "Indicateurs mensuels clés\u00A0: chiffre d'affaires par ligne, marge brute, charges fixes, point mort, trésorerie nette, délais clients et fournisseurs."
+        },
+        {
+          "title": "Dispositif de contrôle interne et séparation des tâches",
+          "detail": "Sécurisation des circuits d'approvisionnement, des mouvements de stock, de la caisse espèces et des rapprochements bancaires."
+        },
+        {
+          "title": "Modèles budgétaires et comptabilité analytique",
+          "detail": "Grilles de tarification, calcul de coûts complets et suivi mensuel du réalisé par rapport au budget voté."
+        },
+        {
+          "title": "Formation opérationnelle Excel avancé",
+          "detail": "Ateliers appliqués aux données réelles de votre société\u00A0: tableaux croisés dynamiques, automatisation de rapports financiers et contrôles de cohérence."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Analyse du modèle économique et des centres de coûts",
+          "detail": "Identification des inducteurs de marge propres à votre métier (négoce, BTP, services, transformation, transport)."
+        },
+        {
+          "step": "02",
+          "title": "Architecture des outils et règles de contrôle",
+          "detail": "Construction des matrices de suivi et définition des points de contrôle obligatoire dans la chaîne administrative."
+        },
+        {
+          "step": "03",
+          "title": "Test sur un cycle mensuel réel",
+          "detail": "Alimentation accompagnée du premier tableau de bord à partir de vos données comptables et commerciales."
+        },
+        {
+          "step": "04",
+          "title": "Transfert de compétences aux équipes",
+          "detail": "Formation pratique des collaborateurs et instauration d'une revue mensuelle de gestion avec le dirigeant."
+        }
+      ],
+      "audience": [
+        "Dirigeants souhaitant disposer d'une situation fiable avant le 10 de chaque mois.",
+        "Entreprises multi-sites ou multi-activités ayant besoin d'isoler la rentabilité de chaque agence ou contrat.",
+        "Directions administratives souhaitant faire monter leurs équipes comptables en compétence sur Excel avancé."
+      ],
+      "faq": [
+        {
+          "question": "Faut-il acquérir un logiciel coûteux pour démarrer le contrôle de gestion\u00A0?",
+          "answer": "Non. Pour la majorité des PME, une comptabilité bien imputée couplée à des modèles Excel structurés et verrouillés permet d'obtenir rapidement d'excellents tableaux de bord sans investissement logiciel disproportionné."
+        },
+        {
+          "question": "La formation Excel avancé peut-elle se tenir dans nos locaux\u00A0?",
+          "answer": "Oui, nous organisons des sessions intra-entreprise dans vos bureaux à Yaoundé ou Douala, ainsi que des séminaires inter-entreprises dédiés aux cadres financiers et dirigeants."
+        }
+      ],
+      "relatedSlugs": ["mise-a-niveau-structuration-strategique", "conseil-fiscal-et-comptable", "digitalisation-et-systemes"],
+      "relatedResourceSlug": "mise-a-niveau-d-entreprise-par-ou-commencer"
+    },
+    {
+      "number": "03",
+      "slug": "conseil-fiscal-et-comptable",
+      "shortTitle": "Conseil fiscal, DSF et tenue comptable",
+      "title": "Conseil fiscal et comptable, déclarations et montage de la DSF au Cameroun",
+      "category": "Comptabilité & Fiscalité",
+      "requiresConfirmation": false,
+      "previewPalette": {
+        "ground": "#070B2E",
+        "accent": "#D9A441",
+        "caption": "Tenue comptable OHADA · Déclarations fiscales & CNPS · Montage DSF"
+      },
+      "seo": {
+        "title": "Conseil fiscal, comptable & montage DSF | LM Consulting",
+        "description": "Tenue de comptabilité, déclarations fiscales et CNPS, régularisation fiscale et montage de la DSF à Yaoundé et Douala par LM Consulting."
+      },
+      "summary": "Organisation et tenue de la comptabilité, déclarations fiscales périodiques et CNPS, régularisation des obligations fiscales et montage rigoureux de la DSF.",
+      "introduction": [
+        "Au Cameroun, la sécurité juridique et financière d'une entreprise repose directement sur la régularité de sa comptabilité et le respect scrupuleux de ses échéances déclaratives. Une imputation approximative, une déclaration mensuelle omise ou une Déclaration statistique et fiscale (DSF) incohérente exposent rapidement la société à des pénalités lourdes et au blocage de son attestation de conformité.",
+        "LM CONSULTING prend en charge l'organisation complète ou la supervision de votre fonction comptable selon le référentiel OHADA, le suivi de vos déclarations fiscales périodiques et sociales (CNPS), ainsi que le montage intégral de votre DSF de fin d'exercice.",
+        "Lorsque votre entreprise accuse un passif déclaratif ou des exercices non clôturés, nous menons un travail méthodique de reconstitution des écritures et de régularisation fiscale afin d'assainir durablement votre dossier administratif."
+      ],
+      "deliverables": [
+        {
+          "title": "Organisation et tenue régulière de la comptabilité",
+          "detail": "Classement normalisé des pièces justificatives, saisie comptable selon le plan SYSCOHADA révisé, lettrage des tiers et états de rapprochement bancaire."
+        },
+        {
+          "title": "Établissement et suivi des déclarations fiscales et CNPS",
+          "detail": "Préparation dans les délais des déclarations périodiques d'impôts, taxes et cotisations sociales CNPS selon le régime fiscal applicable à votre entreprise."
+        },
+        {
+          "title": "Montage complet de la Déclaration statistique et fiscale (DSF)",
+          "detail": "Travaux d'inventaire, révision des comptes, passage du résultat comptable au résultat fiscal et établissement des tableaux normalisés de la DSF."
+        },
+        {
+          "title": "Dossier de régularisation fiscale",
+          "detail": "État contradictoire des restes à déclarer ou à régulariser, vérification des bases d'imposition et accompagnement technique dans vos démarches auprès de l'administration."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Revue de la situation comptable et du régime d'imposition",
+          "detail": "Vérification du dossier fiscal existant, des derniers dépôts effectués, des obligations CNPS et de l'organisation des pièces."
+        },
+        {
+          "step": "02",
+          "title": "Mise en place du calendrier déclaratif et collecte mensuelle",
+          "detail": "Protocole simple de transmission des factures, pièces de caisse, états de paie et relevés bancaires chaque mois."
+        },
+        {
+          "step": "03",
+          "title": "Contrôle de cohérence et déclarations périodiques",
+          "detail": "Vérification systématique des bases taxables et validation avec le dirigeant avant échéance."
+        },
+        {
+          "step": "04",
+          "title": "Travaux de clôture annuelle et dépôt de la DSF",
+          "detail": "Arrêté des comptes annuels, montage de la liasse DSF et restitution commentée des résultats au dirigeant."
+        }
+      ],
+      "audience": [
+        "PME ne disposant pas encore d'un chef comptable interne expérimenté et souhaitant sécuriser leurs obligations.",
+        "Entreprises dotées d'un service comptable interne recherchant une révision externe et un appui expert pour la clôture et le montage de la DSF.",
+        "Dirigeants devant régulariser plusieurs périodes déclaratives afin de rétablir leur conformité fiscale."
+      ],
+      "faq": [
+        {
+          "question": "Pouvez-vous travailler en binôme avec notre comptable interne\u00A0?",
+          "answer": "Tout à fait. Dans de nombreuses PME, l'équipe interne assure la saisie courante tandis que notre cabinet intervient en supervision mensuelle, validation des déclarations fiscales et montage annuel de la DSF."
+        },
+        {
+          "question": "Que faire si nous avons perdu certaines pièces justificatives d'un exercice en retard\u00A0?",
+          "answer": "Nous procédons d'abord à un recensement à partir des relevés bancaires, des souches de facturation et des confirmations de tiers pour reconstituer une comptabilité probante et identifier précisément les zones de risque fiscal."
+        }
+      ],
+      "relatedSlugs": ["mise-a-niveau-structuration-strategique", "conseil-en-gestion-controle", "creation-d-entreprise"],
+      "relatedResourceSlug": "qu-est-ce-que-la-dsf-et-qui-doit-la-deposer"
+    },
+    {
+      "number": "04",
+      "slug": "business-plan-et-financement",
+      "shortTitle": "Business plan et recherche de financement",
+      "title": "Montage de business plan et recherche de financement au Cameroun",
+      "category": "Ingénierie Financière",
+      "requiresConfirmation": false,
+      "previewPalette": {
+        "ground": "#0F153E",
+        "accent": "#D9A441",
+        "caption": "Étude financière · Dossier de crédit · Accompagnement jusqu'au financement"
+      },
+      "seo": {
+        "title": "Montage Business Plan & Financement PME | LM Consulting",
+        "description": "Montage de business plan, dossiers de crédit et accompagnement à la recherche de financement pour PME et projets à Yaoundé et Douala."
+      },
+      "summary": "Montage de business plans chiffrés, constitution de dossiers de financement et accompagnement actif dans les démarches jusqu'à l'obtention des fonds.",
+      "introduction": [
+        "Au Cameroun, nombre de projets économiquement viables essuient un refus bancaire pour une raison récurrente\u00A0: le dossier présenté repose sur des hypothèses commerciales trop optimistes, omet le besoin en fonds de roulement de démarrage ou ne démontre pas clairement la capacité de remboursement du crédit sollicité.",
+        "Chez LM CONSULTING, nous concevons le business plan comme un véritable outil de décision financière et non comme un simple document administratif. Nous confrontons vos hypothèses aux réalités des coûts locaux, modélisons des états financiers prévisionnels cohérents sur plusieurs exercices et structurons un dossier répondant aux grilles d'analyse des comités de crédit.",
+        "Surtout, notre intervention ne s'arrête pas à la remise du document\u00A0: nous vous accompagnons dans l'identification des guichets adaptés et tout au long des échanges techniques jusqu'à l'aboutissement de la démarche de financement."
+      ],
+      "deliverables": [
+        {
+          "title": "Business plan complet (volets économique et stratégique)",
+          "detail": "Présentation structurée du porteur ou de l'entreprise existante, analyse documentée du marché visé, modèle de revenus, plan opérationnel et gouvernance."
+        },
+        {
+          "title": "Modèle financier prévisionnel détaillé",
+          "detail": "Plan d'investissement et de financement initial, compte de résultat prévisionnel, plan de trésorerie mensuel, calcul du BFR, seuil de rentabilité et scénarios de sensibilité."
+        },
+        {
+          "title": "Dossier bancaire ou institutionnel complet",
+          "detail": "Constitution et mise en forme des pièces administratives, comptables, fiscales et garanties requises par les établissements financiers."
+        },
+        {
+          "title": "Note de synthèse exécutive et préparation aux entretiens",
+          "detail": "Synthèse destinée aux décideurs financiers et préparation du dirigeant aux questions du comité d'engagement."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Cadrage du besoin réel et de la capacité d'endettement",
+          "detail": "Évaluation objective du montant à financer (équipements, BFR, extension) et de l'apport mobilisable."
+        },
+        {
+          "step": "02",
+          "title": "Modélisation financière et rédaction du business plan",
+          "detail": "Chiffrage rigoureux des charges d'exploitation, de la fiscalité applicable et des flux de trésorerie disponibles pour le service de la dette."
+        },
+        {
+          "step": "03",
+          "title": "Ciblage des partenaires financiers et dépôt des dossiers",
+          "detail": "Orientation vers les banques commerciales, établissements de microfinance de deuxième catégorie, organismes de crédit-bail ou fonds adaptés."
+        },
+        {
+          "step": "04",
+          "title": "Suivi des instructions et réponses aux demandes complémentaires",
+          "detail": "Appui technique lors des échanges avec les analystes crédit jusqu'à la décision finale et la mise en place du financement."
+        }
+      ],
+      "audience": [
+        "PME existantes préparant un investissement productif, l'acquisition d'équipements ou le financement d'un marché important.",
+        "Entrepreneurs sollicitant une ligne de trésorerie, un crédit à moyen terme ou un crédit-bail.",
+        "Porteurs de projets structurés disposant d'un apport initial et recherchant un partenaire financier au Cameroun."
+      ],
+      "faq": [
+        {
+          "question": "Garantissez-vous l'accord automatique de la banque\u00A0?",
+          "answer": "Aucun cabinet sérieux ne peut promettre la décision souveraine d'un comité de crédit. En revanche, nous éliminons les motifs de rejet liés à un dossier incomplet, mal chiffré ou incohérent, et nous défendons techniquement la viabilité financière du projet à vos côtés."
+        },
+        {
+          "question": "Une entreprise déjà en activité a-t-elle besoin de ses DSF passées pour demander un financement\u00A0?",
+          "answer": "Oui, les établissements financiers exigent systématiquement les états financiers historiques et la régularité fiscale des exercices écoulés. Si nécessaire, nous mettons d'abord vos comptes à jour avant d'introduire la demande."
+        }
+      ],
+      "relatedSlugs": ["mise-a-niveau-structuration-strategique", "conseil-fiscal-et-comptable", "creation-d-entreprise"],
+      "relatedResourceSlug": "structurer-un-business-plan-pour-obtenir-un-financement"
+    },
+    {
+      "number": "05",
+      "slug": "creation-d-entreprise",
+      "shortTitle": "Création d'entreprise au Cameroun",
+      "title": "Accompagnement à la création d'entreprise à Yaoundé et Douala",
+      "category": "Constitution & Démarrage",
+      "requiresConfirmation": false,
+      "previewPalette": {
+        "ground": "#0A1035",
+        "accent": "#F29A1F",
+        "caption": "Choix de forme juridique · Formalités · Organisation comptable initiale"
+      },
+      "seo": {
+        "title": "Création d'entreprise à Yaoundé & Douala | LM Consulting",
+        "description": "Accompagnement complet à la création d'entreprise au Cameroun : choix du statut, formalités administratives, ouverture fiscale, CNPS et comptabilité."
+      },
+      "summary": "Orientation sur le cadre juridique et fiscal, constitution du dossier de création, immatriculations obligatoires et mise en place immédiate d'une gestion saine.",
+      "introduction": [
+        "Créer une entreprise au Cameroun ne se résume pas à obtenir un registre de commerce. Un mauvais choix initial entre entreprise individuelle, SARL ou autre forme prévue par l'Acte uniforme OHADA, ou une méconnaissance des obligations fiscales et sociales dès le premier trimestre d'existence, génère souvent des pénalités avant même le premier franc de bénéfice.",
+        "LM CONSULTING accompagne les créateurs, associés locaux et investisseurs de la diaspora dans toutes les étapes de constitution de leur structure à Yaoundé et à Douala, en veillant à aligner le cadre juridique retenu sur votre activité réelle, votre gouvernance entre associés et vos perspectives de financement.",
+        "Dès l'immatriculation achevée, nous installons avec vous les premiers réflexes de gestion (facturation conforme, suivi de trésorerie, calendrier déclaratif fiscal et CNPS) pour éviter toute dérive administrative au démarrage."
+      ],
+      "deliverables": [
+        {
+          "title": "Note d'orientation juridique, fiscale et sociale",
+          "detail": "Comparaison concrète des options de structure selon votre capital, le nombre d'associés, la responsabilité patrimoniale et le régime d'imposition."
+        },
+        {
+          "title": "Constitution et suivi du dossier administratif de création",
+          "detail": "Préparation des pièces requises et accompagnement dans les démarches d'immatriculation et de rattachement fiscal."
+        },
+        {
+          "title": "Mise en conformité sociale initiale (CNPS)",
+          "detail": "Accompagnement à l'immatriculation employeur et cadrage des premières obligations liées au personnel salarié."
+        },
+        {
+          "title": "Kit de démarrage comptable et financier",
+          "detail": "Ouverture du plan comptable de la société, modèles de facturation conformes et calendrier annuel des échéances déclaratives."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Entretien de cadrage du projet entrepreneurial",
+          "detail": "Analyse de l'activité envisagée, de la répartition du capital, des investissements initiaux et du calendrier de lancement."
+        },
+        {
+          "step": "02",
+          "title": "Préparation documentaire et formalités de constitution",
+          "detail": "Réunion des pièces justificatives et coordination rigoureuse des étapes d'enregistrement."
+        },
+        {
+          "step": "03",
+          "title": "Rattachement fiscal et ouverture du dossier social",
+          "detail": "Vérification de la bonne prise en compte du régime fiscal et des obligations déclaratives dès le début d'activité."
+        },
+        {
+          "step": "04",
+          "title": "Lancement du suivi comptable de premier exercice",
+          "detail": "Mise en place de l'organisation documentaire afin de sécuriser les premières déclarations mensuelles."
+        }
+      ],
+      "audience": [
+        "Porteurs de projets souhaitant démarrer leur activité sur des bases administratives et fiscales irréprochables.",
+        "Entrepreneurs exerçant dans l'informel ou en nom propre et désirant évoluer vers une société structurée.",
+        "Promoteurs de la diaspora ou partenaires étrangers implantant une filiale ou une société opérationnelle à Yaoundé ou Douala."
+      ],
+      "faq": [
+        {
+          "question": "Une société nouvellement créée sans chiffre d'affaires a-t-elle déjà des obligations déclaratives\u00A0?",
+          "answer": "Oui. Dès que l'entreprise est immatriculée et rattachée fiscalement, les déclarations périodiques doivent être déposées dans les délais légaux, même lorsqu'elles sont «\u00A0néant\u00A0», sous peine d'amendes pour défaut de déclaration."
+        },
+        {
+          "question": "Pouvez-vous enchaîner la création d'entreprise avec le montage d'un business plan\u00A0?",
+          "answer": "C'est même la démarche que nous recommandons lorsque le démarrage nécessite un financement bancaire ou l'entrée d'associés financiers\u00A0: le business plan éclaire directement le dimensionnement du capital et la forme sociale."
+        }
+      ],
+      "relatedSlugs": ["business-plan-et-financement", "conseil-fiscal-et-comptable", "solutions-fintech"],
+      "relatedResourceSlug": "structurer-un-business-plan-pour-obtenir-un-financement"
+    },
+    {
+      "number": "06",
+      "slug": "solutions-fintech",
+      "shortTitle": "Intégration de solutions fintech",
+      "title": "Accompagnement à l'intégration de solutions fintech en entreprise",
+      "category": "Flux & Paiements",
+      "requiresConfirmation": false,
+      "previewPalette": {
+        "ground": "#0C133F",
+        "accent": "#D9A441",
+        "caption": "Paiements marchands · Rapprochement comptable · Traçabilité des flux"
+      },
+      "seo": {
+        "title": "Intégration Solutions Fintech PME Cameroun | LM Consulting",
+        "description": "Accompagnement des PME camerounaises à l'intégration de solutions fintech, paiements digitaux, traçabilité de trésorerie et rapprochement comptable."
+      },
+      "summary": "Cadrage, sélection et intégration comptable des solutions de paiement électronique, de collecte mobile et de gestion dématérialisée de la trésorerie.",
+      "introduction": [
+        "L'essor rapide du Mobile Money professionnel, des passerelles d'encaissement marchand et des outils de décaissement numérique au Cameroun offre une souplesse commerciale considérable, mais crée souvent un angle mort comptable\u00A0: comptes marchands non rapprochés, commissions mal isolées, écarts entre ventes encaissées et recettes comptabilisées.",
+        "LM CONSULTING aborde les solutions fintech avec l'œil du directeur financier et du comptable. Nous aidons votre entreprise à choisir des briques de paiement et de gestion adaptées à vos flux réels, puis à les relier proprement à votre contrôle interne et à votre comptabilité.",
+        "Vous gagnez ainsi en rapidité d'encaissement auprès de vos clients tout en conservant une piste d'audit claire, indispensable lors de la clôture des comptes et des vérifications fiscales."
+      ],
+      "deliverables": [
+        {
+          "title": "Cartographie des flux d'encaissement et de décaissement",
+          "detail": "Analyse des modes de règlement actuels (espèces, virements, Mobile Money, cartes), des coûts de transaction et des risques de perte."
+        },
+        {
+          "title": "Cahier des charges et aide au choix des partenaires fintech",
+          "detail": "Sélection raisonnée des solutions marchandes conformes aux exigences réglementaires de la zone CEMAC et adaptées à votre volume."
+        },
+        {
+          "title": "Procédure de rapprochement et d'imputation comptable",
+          "detail": "Méthode précise d'enregistrement des journaux de transactions numériques, des frais d'opérateurs et des reversements bancaires."
+        },
+        {
+          "title": "Règles d'habilitation et de sécurité des comptes marchands",
+          "detail": "Définition des droits d'accès, plafonds de validation et contrôles quotidiens pour sécuriser la trésorerie numérique."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Audit des encaissements et points de friction",
+          "detail": "Observation du parcours de paiement client, des délais de réconciliation et de la part des manipulations d'espèces."
+        },
+        {
+          "step": "02",
+          "title": "Sélection et paramétrage organisationnel",
+          "detail": "Appui dans le dossier d'ouverture des comptes professionnels et séparation stricte entre comptes personnels et comptes de l'entreprise."
+        },
+        {
+          "step": "03",
+          "title": "Intégration dans le circuit comptable",
+          "detail": "Création des journaux dédiés et automatisation du pointage entre relevés opérateurs, factures clients et banque."
+        },
+        {
+          "step": "04",
+          "title": "Formation des caissiers et comptables",
+          "detail": "Prise en main des états de clôture journalière et vérification périodique de l'absence d'écarts."
+        }
+      ],
+      "audience": [
+        "Commerces, réseaux de distribution, établissements d'enseignement, cliniques et sociétés de services encaissant un volume élevé de paiements mobiles.",
+        "PME souhaitant réduire la manipulation d'espèces en caisse et fiabiliser la traçabilité de leurs recettes.",
+        "Entreprises en croissance déployant de nouveaux canaux de vente ou d'abonnement au Cameroun."
+      ],
+      "faq": [
+        {
+          "question": "Pourquoi ne pas utiliser un numéro Mobile Money individuel pour encaisser les clients\u00A0?",
+          "answer": "Confondre un compte individuel et les recettes de la société fausse la piste comptable, complique la justification des flux bancaires et expose aussi bien l'entreprise que le dirigeant en cas de contrôle fiscal."
+        },
+        {
+          "question": "Êtes-vous liés à un éditeur ou opérateur unique\u00A0?",
+          "answer": "Non. Notre conseil demeure indépendant\u00A0: nous recommandons l'architecture d'encaissement et de suivi qui correspond le mieux à votre clientèle, à vos frais et à votre organisation comptable."
+        }
+      ],
+      "relatedSlugs": ["conseil-en-gestion-controle", "conseil-fiscal-et-comptable", "digitalisation-et-systemes"],
+      "relatedResourceSlug": "mise-a-niveau-d-entreprise-par-ou-commencer"
+    },
+    {
+      "number": "07",
+      "slug": "digitalisation-et-systemes",
+      "shortTitle": "Digitalisation et outils numériques",
+      "title": "Digitalisation des processus, applications de gestion et sécurité informatique",
+      "category": "Systèmes & Outils",
+      "requiresConfirmation": true,
+      "_validationNote": "TODO_CONFIRMER : pôle issu des présentations historiques du cabinet, absent de la dernière affiche imprimée ; maintien ou ajustement du périmètre à confirmer avant mise en ligne.",
+      "previewPalette": {
+        "ground": "#080D32",
+        "accent": "#F29A1F",
+        "caption": "Outils sur mesure · Intégration logicielle · Hygiène informatique"
+      },
+      "seo": {
+        "title": "Digitalisation PME & Intégration Logicielle | LM Consulting",
+        "description": "Accompagnement des PME au Cameroun dans la digitalisation de gestion, l'intégration logicielle, les applications métier et l'hygiène informatique."
+      },
+      "summary": "Cadrage de besoins numériques, déploiement d'applications métier et intégration logicielle au service de la gestion et de la protection des données de l'entreprise.",
+      "introduction": [
+        "La transformation numérique d'une PME n'a d'intérêt économique que si elle simplifie réellement la facturation, le suivi des stocks, la relation client ou la production comptable. Trop d'entreprises financent des outils mal dimensionnés qui finissent abandonnés quelques mois plus tard faute de cahier des charges clair et d'accompagnement des équipes.",
+        "En lien direct avec nos compétences en gestion et en contrôle interne, nous accompagnons les entreprises dans l'expression de leurs besoins fonctionnels, l'intégration de logiciels de gestion ou d'applications web métier et le renforcement des bonnes pratiques de sécurité autour de leurs données sensibles.",
+        "Chaque projet numérique est ainsi piloté par les usages réels de vos collaborateurs et par la fiabilité des informations financières qu'il doit produire."
+      ],
+      "deliverables": [
+        {
+          "title": "Cahier des charges fonctionnel orienté gestion",
+          "detail": "Traduction précise de vos processus comptables, commerciaux et logistiques en spécifications compréhensibles et vérifiables."
+        },
+        {
+          "title": "Intégration logicielle et applications métier",
+          "detail": "Déploiement d'outils adaptés (facturation, gestion commerciale, portails web dédiés) interconnectés avec votre organisation comptable."
+        },
+        {
+          "title": "Audit d'hygiène informatique et sauvegarde des données",
+          "detail": "Vérification de la protection des postes comptables, politique de sauvegardes régulières, gestion des accès et continuité d'activité."
+        },
+        {
+          "title": "Conduite du changement et recettes utilisateurs",
+          "detail": "Vérification de la conformité des calculs (taxes, remises, stocks) et formation des utilisateurs finaux."
+        }
+      ],
+      "process": [
+        {
+          "step": "01",
+          "title": "Revue des outils existants et des saisies redondantes",
+          "detail": "Identification des doubles saisies entre cahiers, fichiers dispersés et comptabilité."
+        },
+        {
+          "step": "02",
+          "title": "Architecture cible et choix de la solution",
+          "detail": "Arbitrage pragmatique entre paramétrage d'un progiciel éprouvé et développement d'une brique sur mesure."
+        },
+        {
+          "step": "03",
+          "title": "Déploiement progressif, reprise des données et tests",
+          "detail": "Migration contrôlée des fichiers clients, articles et soldes avec vérification comptable."
+        },
+        {
+          "step": "04",
+          "title": "Sécurisation des accès et accompagnement post-démarrage",
+          "detail": "Mise en place des sauvegardes automatisées et assistance lors des premières clôtures mensuelles sur le nouvel outil."
+        }
+      ],
+      "audience": [
+        "PME souhaitant passer de fichiers isolés à un système de gestion commercial et comptable cohérent.",
+        "Dirigeants soucieux de protéger leurs bases comptables et commerciales contre la perte de données ou les accès non autorisés.",
+        "Structures ayant besoin d'une application web métier reliée à leurs flux opérationnels."
+      ],
+      "faq": [
+        {
+          "question": "Par quoi commencer lorsque tout est encore géré sur papier ou sur des fichiers non reliés\u00A0?",
+          "answer": "Nous commençons toujours par stabiliser vos procédures de base (numérotation des pièces, circuit de validation, nomenclature d'articles) avant d'informatiser\u00A0: numériser un processus désordonné ne fait qu'accélérer les erreurs."
+        },
+        {
+          "question": "Assurez-vous la cohérence entre le logiciel commercial et la comptabilité OHADA\u00A0?",
+          "answer": "C'est précisément la valeur ajoutée d'un cabinet à dominante comptable et financière\u00A0: chaque flux paramétré dans l'outil métier est vérifié sous l'angle de sa traduction comptable et fiscale."
+        }
+      ],
+      "relatedSlugs": ["solutions-fintech", "conseil-en-gestion-controle", "mise-a-niveau-structuration-strategique"],
+      "relatedResourceSlug": "mise-a-niveau-d-entreprise-par-ou-commencer"
+    }
+  ]
+}

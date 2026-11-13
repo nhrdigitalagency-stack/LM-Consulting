@@ -1,0 +1,86 @@
+{
+  "_validationNote": "TODO_CONFIRMER : Modèles juridiques structurés à faire valider par le conseil juridique du cabinet avant publication définitive (forme sociale exacte, RCCM, NIU, hébergeur définitif).",
+  "mentionsLegales": {
+    "title": "Mentions légales",
+    "seoTitle": "Mentions légales | LM Consulting Cameroun",
+    "seoDescription": "Informations légales relatives à l'éditeur du site LM Consulting, cabinet de conseil basé à Yaoundé et Douala (Cameroun).",
+    "lastUpdated": "Novembre 2026",
+    "notice": "Les présentes mentions légales encadrent l'utilisation du site internet vitrine du cabinet LM CONSULTING. Les identifiants d'immatriculation administrative (numéro RCCM et Numéro d'Identifiant Unique) sont complétés à partir des actes officiels du cabinet lors de la mise en production sur le domaine définitif.",
+    "sections": [
+      {
+        "heading": "1. Éditeur du site",
+        "paragraphs": [
+          "Le présent site est édité par le cabinet LM CONSULTING, cabinet de conseil, de mise à niveau et de renforcement des capacités des entreprises au Cameroun.",
+          "Siège principal\u00A0: Immeuble ADJAL Warda, Yaoundé, Cameroun.",
+          "Bureau du Littoral\u00A0: Immeuble ONCPB, Bonanjo, Douala, Cameroun.",
+          "Direction de la publication\u00A0: Laurentine MVONDO, Manager du cabinet.",
+          "Téléphones\u00A0: (+237)\u00A0695\u00A0491\u00A0296 / (+237)\u00A0653\u00A0808\u00A0106.",
+          "Courrier électronique\u00A0: lmconsulting685@gmail.com."
+        ]
+      },
+      {
+        "heading": "2. Objet des informations publiées",
+        "paragraphs": [
+          "Les contenus, guides et présentations diffusés sur ce site ont une vocation strictement informative et documentaire. Ils ne sauraient se substituer à une consultation personnalisée tenant compte de la situation juridique, comptable et fiscale propre à chaque entreprise.",
+          "En matière fiscale, comptable et sociale, seuls font foi les textes officiels en vigueur en République du Cameroun et dans l'espace OHADA (Code Général des Impôts, lois de finances annuelles, Actes uniformes OHADA et textes réglementaires de la CNPS)."
+        ]
+      },
+      {
+        "heading": "3. Propriété intellectuelle",
+        "paragraphs": [
+          "L'ensemble des textes, éléments graphiques, signes distinctifs, logotypes et mises en page composant ce site relève de la propriété exclusive de LM CONSULTING, sauf mention contraire explicite.",
+          "Toute reproduction, représentation, extraction ou réutilisation totale ou partielle de ces contenus sans autorisation écrite préalable du cabinet est interdite."
+        ]
+      },
+      {
+        "heading": "4. Responsabilité et liens externes",
+        "paragraphs": [
+          "LM CONSULTING veille à l'exactitude et à la mise à jour des informations diffusées sur son site, sans pouvoir garantir l'absence d'omission ou d'évolution réglementaire intervenue après la publication d'un article.",
+          "Les liens externes pointant vers des services tiers (itinéraires cartographiques, messagerie instantanée ou portails institutionnels) sont proposés pour la commodité de l'utilisateur et demeurent soumis aux conditions propres de ces plateformes."
+        ]
+      }
+    ]
+  },
+  "politiqueConfidentialite": {
+    "title": "Politique de confidentialité",
+    "seoTitle": "Politique de confidentialité | LM Consulting Cameroun",
+    "seoDescription": "Traitement des données personnelles transmises via le formulaire de contact du cabinet LM Consulting à Yaoundé et Douala.",
+    "lastUpdated": "Novembre 2026",
+    "notice": "Conformément aux principes de protection des données à caractère personnel applicables en République du Cameroun, LM CONSULTING s'engage à ne collecter que les informations strictement nécessaires au traitement de vos demandes professionnelles.",
+    "sections": [
+      {
+        "heading": "1. Données collectées via le formulaire de contact",
+        "paragraphs": [
+          "Lorsque vous nous adressez une demande d'échange via la page Contact, nous recueillons uniquement les informations que vous saisissez volontairement\u00A0: nom et prénom, adresse électronique professionnelle, numéro de téléphone, nom de votre entreprise, domaine de conseil concerné et contenu de votre message.",
+          "Aucune donnée bancaire ni aucun document confidentiel ne vous est demandé lors de cette prise de contact initiale."
+        ]
+      },
+      {
+        "heading": "2. Finalité et base du traitement",
+        "paragraphs": [
+          "Ces informations sont traitées exclusivement afin de répondre à votre sollicitation, d'organiser un premier entretien à Yaoundé, à Douala ou à distance, et d'élaborer le cas échéant une proposition d'accompagnement adaptée.",
+          "LM CONSULTING ne vend, ne loue et ne cède jamais vos coordonnées à des tiers à des fins commerciales ou publicitaires."
+        ]
+      },
+      {
+        "heading": "3. Conservation et sécurité des échanges",
+        "paragraphs": [
+          "Les demandes reçues sont conservées pendant la durée nécessaire au suivi de nos échanges précontractuels puis, en cas de mission confiée au cabinet, pendant la durée légale applicable aux dossiers professionnels.",
+          "Le site met en œuvre des mesures techniques de protection incluant la validation stricte des entrées, la limitation du débit des requêtes et le chiffrement des communications HTTPS."
+        ]
+      },
+      {
+        "heading": "4. Mesure d'audience et traceurs",
+        "paragraphs": [
+          "Ce site n'utilise aucun traceur publicitaire tiers ni profilage comportemental. Lorsqu'un outil de mesure de fréquentation est activé, il est configuré sans dépôt de cookie publicitaire et dans le seul but d'évaluer la lisibilité des pages."
+        ]
+      },
+      {
+        "heading": "5. Exercice de vos droits",
+        "paragraphs": [
+          "Vous pouvez à tout moment demander l'accès, la rectification ou la suppression des informations vous concernant en écrivant à lmconsulting685@gmail.com ou en contactant directement le siège du cabinet à Yaoundé."
+        ]
+      }
+    ]
+  }
+}

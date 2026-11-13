@@ -1,0 +1,6 @@
+{
+  "name": "ML Consulting — Cabinet de conseil au Cameroun",
+  "description": "Cabinet de conseil, de mise à niveau des entreprises, d'expertise fiscale, comptable et de recherche de financement à Yaoundé et Douala (Cameroun).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
