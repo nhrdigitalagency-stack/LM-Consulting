@@ -1,17 +1,15 @@
 import React from 'react';
+import { motion, useReducedMotion } from 'motion/react';
 import { ArrowUpRight, Mail, MapPin, Phone } from 'lucide-react';
 import { useI18n } from '../lib/i18n';
 import { AppLink } from '../lib/router';
-import {
-  ArchitecturalPlaceholderPlate,
-  Breadcrumbs,
-  CityLocatorMap,
-} from '../components/BrandMarks';
+import { Breadcrumbs, CityLocatorMap } from '../components/BrandMarks';
 import { ContactBanner } from '../components/ContactBanner';
 import { SplitReveal } from '../components/MotionPrimitives';
 
 export function AboutPage() {
-  const { ui, cabinet, implantationsData } = useI18n();
+  const { locale, ui, cabinet, implantationsData } = useI18n();
+  const prefersReduced = useReducedMotion();
 
   return (
     <>
@@ -51,6 +49,34 @@ export function AboutPage() {
                 {cabinet.brand.engagement}
                 {'\u00A0'}»
               </blockquote>
+
+              <motion.figure
+                initial={
+                  prefersReduced
+                    ? { opacity: 1 }
+                    : { clipPath: 'inset(10% 0% 10% 0%)', opacity: 0.86 }
+                }
+                whileInView={{ clipPath: 'inset(0% 0% 0% 0%)', opacity: 1 }}
+                viewport={{ once: true, margin: '-8% 0px' }}
+                transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
+                className="group mt-8 border border-ink/15 bg-ivory-surface p-3"
+              >
+                <div className="aspect-[4/3] w-full overflow-hidden bg-midnight">
+                  <img
+                    src="/assets/photos/advisory-meeting.jpg"
+                    alt={
+                      locale === 'en'
+                        ? 'LM Consulting executive consultation session'
+                        : 'Séance de travail entre la direction LM Consulting et un dirigeant de PME'
+                    }
+                    width={1200}
+                    height={900}
+                    loading="lazy"
+                    decoding="async"
+                    className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                  />
+                </div>
+              </motion.figure>
             </div>
 
             <div className="min-w-0 lg:col-span-7">
@@ -162,9 +188,24 @@ export function AboutPage() {
             {implantationsData.offices.map((office) => (
               <div
                 key={office.slug}
-                className="flex flex-col justify-between border border-ink/15 bg-ivory-surface p-7"
+                className="group flex flex-col justify-between border border-ink/15 bg-ivory-surface p-6 sm:p-7"
               >
                 <div>
+                  <div className="mb-5 aspect-video w-full overflow-hidden border border-ink/12 bg-midnight">
+                    <img
+                      src={
+                        office.slug === 'yaounde'
+                          ? '/assets/photos/office-yaounde-warda.jpg'
+                          : '/assets/photos/office-douala-bonanjo.jpg'
+                      }
+                      alt={`${cabinet.brand.name} — ${office.city} (${office.building})`}
+                      width={1600}
+                      height={900}
+                      loading="lazy"
+                      decoding="async"
+                      className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                    />
+                  </div>
                   <p className="editorial-caption text-amber-ink">{office.role}</p>
                   <h3 className="mt-2 font-editorial text-3xl text-ink">{office.city}</h3>
                   <p className="mt-2 text-sm font-semibold text-ink">{office.building}</p>
@@ -248,11 +289,27 @@ export function LocalOfficePage({ citySlug }: { citySlug: 'yaounde' | 'douala' }
                 </ul>
               </div>
 
-              <ArchitecturalPlaceholderPlate
-                tone="ivory"
-                code={`${office.city.toUpperCase()} · ${office.building.toUpperCase()}`}
-                caption={office.missingPhotoCaption}
-              />
+              <figure className="group border border-ink/15 bg-ivory-surface p-3">
+                <div className="relative aspect-video w-full overflow-hidden bg-midnight">
+                  <img
+                    src={
+                      office.slug === 'yaounde'
+                        ? '/assets/photos/office-yaounde-warda.jpg'
+                        : '/assets/photos/office-douala-bonanjo.jpg'
+                    }
+                    alt={`${cabinet.brand.name} — ${office.city} (${office.building})`}
+                    width={1600}
+                    height={900}
+                    loading="lazy"
+                    decoding="async"
+                    className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                  />
+                </div>
+                <figcaption className="mt-3 flex items-center justify-between text-xs text-ink-muted">
+                  <span>{office.missingPhotoCaption}</span>
+                  <span className="font-semibold text-amber-ink">{office.city}</span>
+                </figcaption>
+              </figure>
             </div>
 
             <div className="min-w-0 space-y-8 lg:col-span-6">

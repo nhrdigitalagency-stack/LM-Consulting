@@ -10,7 +10,7 @@ import { ServicesInteractiveList } from '../components/ServicesInteractiveList';
 import { NotFoundPage } from './ContactAndLegalPages';
 
 export function ServicesIndexPage() {
-  const { ui, services, servicesSection } = useI18n();
+  const { locale, ui, services, servicesSection } = useI18n();
 
   return (
     <>
@@ -35,6 +35,43 @@ export function ServicesIndexPage() {
 
       <section className="bg-ivory py-16 text-ink sm:py-24">
         <div className="mx-auto max-w-[90rem] px-5 sm:px-8 lg:px-12">
+          <div className="mb-12 grid grid-cols-1 gap-6 md:grid-cols-2">
+            <figure className="group border border-ink/15 bg-ivory-surface p-3">
+              <div className="aspect-[16/9] w-full overflow-hidden bg-midnight">
+                <img
+                  src="/assets/photos/advisory-meeting.jpg"
+                  alt={
+                    locale === 'en'
+                      ? 'LM Consulting executive consultation and tax diagnosis'
+                      : 'Consultation dirigeant et diagnostic financier LM Consulting'
+                  }
+                  width={1200}
+                  height={900}
+                  loading="lazy"
+                  decoding="async"
+                  className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                />
+              </div>
+            </figure>
+            <figure className="group border border-ink/15 bg-ivory-surface p-3">
+              <div className="aspect-[16/9] w-full overflow-hidden bg-midnight">
+                <img
+                  src="/assets/photos/finance-strategy-desk.jpg"
+                  alt={
+                    locale === 'en'
+                      ? 'Financial modeling, DSF assembly, and management dashboards'
+                      : 'Modélisation financière, montage DSF et tableaux de bord de gestion'
+                  }
+                  width={1200}
+                  height={900}
+                  loading="lazy"
+                  decoding="async"
+                  className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                />
+              </div>
+            </figure>
+          </div>
+
           <ServicesInteractiveList services={services} tone="ivory" />
 
           <div className="mt-16 grid grid-cols-1 gap-8 border-t border-ink/15 pt-12 md:grid-cols-2">
@@ -76,6 +113,7 @@ export function ServicesIndexPage() {
 
 export function ServiceDetailPage({ slug }: { slug: string }) {
   const {
+    locale,
     ui,
     cabinet,
     getServiceBySlug,
@@ -163,7 +201,24 @@ export function ServiceDetailPage({ slug }: { slug: string }) {
               )}
             </div>
 
-            <aside className="min-w-0 border border-ink/15 bg-ivory-surface p-6 sm:p-9 lg:col-span-5 lg:self-start">
+            <aside className="group min-w-0 border border-ink/15 bg-ivory-surface p-6 sm:p-9 lg:col-span-5 lg:self-start">
+              <div className="mb-6 aspect-[16/9] w-full overflow-hidden border border-ink/12 bg-midnight">
+                <img
+                  src={
+                    ['conseil-en-gestion-controle', 'business-plan-et-financement', 'solutions-fintech'].includes(
+                      service.slug
+                    )
+                      ? '/assets/photos/finance-strategy-desk.jpg'
+                      : '/assets/photos/advisory-meeting.jpg'
+                  }
+                  alt={service.title}
+                  width={1200}
+                  height={900}
+                  loading="lazy"
+                  decoding="async"
+                  className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                />
+              </div>
               <h2 className="editorial-caption text-amber-ink">
                 {ui.servicesPage.whoIsItFor}
               </h2>
@@ -176,7 +231,9 @@ export function ServiceDetailPage({ slug }: { slug: string }) {
               </ul>
 
               <div className="mt-6 border-t border-ink/14 pt-5 text-xs text-ink-muted">
-                LM CONSULTING · {cabinet.hero.architecturalPlateCaption}
+                {locale === 'en'
+                  ? 'LM CONSULTING · Yaoundé (Warda) & Douala (Bonanjo)'
+                  : `LM CONSULTING · ${cabinet.hero.architecturalPlateCaption}`}
               </div>
             </aside>
           </div>

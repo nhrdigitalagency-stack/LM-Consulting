@@ -276,6 +276,46 @@ export function HomePage() {
                   <ArrowUpRight className="h-4 w-4 text-amber-ink" aria-hidden="true" />
                 </AppLink>
               </div>
+
+              <motion.figure
+                initial={
+                  prefersReduced
+                    ? { opacity: 1 }
+                    : { clipPath: 'inset(10% 0% 10% 0%)', opacity: 0.85 }
+                }
+                whileInView={{ clipPath: 'inset(0% 0% 0% 0%)', opacity: 1 }}
+                viewport={{ once: true, margin: '-8% 0px' }}
+                transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
+                className="group mt-10 border border-ink/15 bg-ivory-surface p-3"
+              >
+                <div className="relative aspect-[4/3] w-full overflow-hidden bg-midnight">
+                  <img
+                    src="/assets/photos/advisory-meeting.jpg"
+                    alt={
+                      locale === 'en'
+                        ? 'LM Consulting executive advisory and financial review session'
+                        : 'Séance de conseil dirigeant et analyse financière chez LM Consulting'
+                    }
+                    width={1200}
+                    height={900}
+                    loading="lazy"
+                    decoding="async"
+                    className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                  />
+                  <div
+                    aria-hidden="true"
+                    className="pointer-events-none absolute inset-x-0 bottom-0 h-16 bg-gradient-to-t from-midnight/70 to-transparent"
+                  />
+                </div>
+                <figcaption className="mt-2.5 flex items-center justify-between text-[11px] font-medium text-ink-muted">
+                  <span>
+                    {locale === 'en'
+                      ? 'Executive briefings · Audit & Tax'
+                      : 'Entretiens dirigeants · Audit & Fiscalité'}
+                  </span>
+                  <span className="font-semibold text-amber-ink">01 — 07</span>
+                </figcaption>
+              </motion.figure>
             </EditorialReveal>
 
             <div className="min-w-0 lg:col-span-8">
@@ -394,6 +434,42 @@ export function HomePage() {
               <p className="mt-6 border-t border-ink/14 pt-6 text-sm leading-relaxed text-ink-muted">
                 {cabinet.values.vision}
               </p>
+
+              <motion.figure
+                initial={
+                  prefersReduced
+                    ? { opacity: 1 }
+                    : { clipPath: 'inset(8% 0% 8% 0%)', opacity: 0.88 }
+                }
+                whileInView={{ clipPath: 'inset(0% 0% 0% 0%)', opacity: 1 }}
+                viewport={{ once: true, margin: '-8% 0px' }}
+                transition={{ duration: 0.72, ease: [0.16, 1, 0.3, 1] }}
+                className="group mt-8 border border-ink/15 bg-ivory-surface p-3"
+              >
+                <div className="aspect-[4/3] w-full overflow-hidden bg-midnight">
+                  <img
+                    src="/assets/photos/finance-strategy-desk.jpg"
+                    alt={
+                      locale === 'en'
+                        ? 'Financial modeling dashboards and SME structuring reports at LM Consulting'
+                        : 'Modélisation financière, tableaux de bord et dossiers de structuration PME chez LM Consulting'
+                    }
+                    width={1200}
+                    height={900}
+                    loading="lazy"
+                    decoding="async"
+                    className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                  />
+                </div>
+                <figcaption className="mt-2.5 flex items-center justify-between text-[11px] text-ink-muted">
+                  <span>
+                    {locale === 'en'
+                      ? 'Financial modeling · DSF · Management control'
+                      : 'Modélisation financière · DSF · Contrôle de gestion'}
+                  </span>
+                  <span className="font-semibold text-amber-ink">SYSCOHADA</span>
+                </figcaption>
+              </motion.figure>
             </EditorialReveal>
 
             <StaggerRevealGroup className="grid min-w-0 grid-cols-1 gap-8 sm:grid-cols-2 lg:col-span-7">
@@ -433,47 +509,77 @@ export function HomePage() {
           </EditorialReveal>
 
           <StaggerRevealGroup className="mt-12 grid grid-cols-1 gap-8 md:grid-cols-2">
-            {implantationsData.offices.map((office) => (
-              <StaggerRevealItem
-                key={office.slug}
-                className="interactive-card flex min-w-0 flex-col justify-between border border-ink/15 bg-ivory p-6 sm:p-10"
-              >
-                <div>
-                  <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-ink/12 pb-4">
-                    <span className="editorial-caption text-amber-ink">{office.role}</span>
-                    <span className="text-xs text-ink-muted">{office.region}</span>
-                  </div>
-                  <h3 className="mt-5 font-display text-3xl font-semibold text-ink sm:text-4xl">
-                    {office.city}
-                  </h3>
-                  <p className="mt-3 text-base font-semibold text-ink">{office.building}</p>
-                  <p className="mt-1 text-sm text-ink-muted">{office.district}</p>
-                  <p className="mt-4 text-sm leading-relaxed text-ink-muted">
-                    {office.presentation[0]}
-                  </p>
-                </div>
+            {implantationsData.offices.map((office) => {
+              const officeImg =
+                office.slug === 'yaounde'
+                  ? '/assets/photos/office-yaounde-warda.jpg'
+                  : '/assets/photos/office-douala-bonanjo.jpg';
+              const officeAlt =
+                office.slug === 'yaounde'
+                  ? locale === 'en'
+                    ? 'LM Consulting Yaoundé Headquarters at ADJAL Building, Warda'
+                    : 'Siège LM Consulting à Yaoundé, Immeuble ADJAL Warda'
+                  : locale === 'en'
+                  ? 'LM Consulting Douala office at ONCPB Building, Bonanjo'
+                  : 'Bureau LM Consulting à Douala, Immeuble ONCPB Bonanjo';
 
-                <div className="mt-8 flex flex-wrap items-center justify-between gap-4 border-t border-ink/12 pt-5">
-                  <AppLink
-                    href={`/${office.slug}`}
-                    className="editorial-link text-sm font-semibold text-ink hover:text-amber-ink"
-                  >
-                    <span>
-                      {ui.common.viewOfficeIn} {office.city}
-                    </span>
-                    <ArrowUpRight className="h-4 w-4 text-amber-ink" aria-hidden="true" />
-                  </AppLink>
-                  <a
-                    href={office.googleMapsSearchUrl}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-xs text-ink-muted underline hover:text-ink"
-                  >
-                    {ui.common.googleMapsDirections}
-                  </a>
-                </div>
-              </StaggerRevealItem>
-            ))}
+              return (
+                <StaggerRevealItem
+                  key={office.slug}
+                  className="interactive-card group flex min-w-0 flex-col justify-between border border-ink/15 bg-ivory p-6 sm:p-8"
+                >
+                  <div>
+                    <div className="relative mb-6 aspect-video w-full overflow-hidden border border-ink/12 bg-midnight">
+                      <img
+                        src={officeImg}
+                        alt={officeAlt}
+                        width={1600}
+                        height={900}
+                        loading="lazy"
+                        decoding="async"
+                        className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+                      />
+                      <span className="absolute top-3 left-3 bg-midnight/90 px-3 py-1 text-[10px] font-semibold tracking-wider text-gold uppercase">
+                        {office.region}
+                      </span>
+                    </div>
+
+                    <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-ink/12 pb-4">
+                      <span className="editorial-caption text-amber-ink">{office.role}</span>
+                      <span className="text-xs text-ink-muted">{office.city}</span>
+                    </div>
+                    <h3 className="mt-5 font-display text-3xl font-semibold text-ink sm:text-4xl">
+                      {office.city}
+                    </h3>
+                    <p className="mt-3 text-base font-semibold text-ink">{office.building}</p>
+                    <p className="mt-1 text-sm text-ink-muted">{office.district}</p>
+                    <p className="mt-4 text-sm leading-relaxed text-ink-muted">
+                      {office.presentation[0]}
+                    </p>
+                  </div>
+
+                  <div className="mt-8 flex flex-wrap items-center justify-between gap-4 border-t border-ink/12 pt-5">
+                    <AppLink
+                      href={`/${office.slug}`}
+                      className="editorial-link text-sm font-semibold text-ink hover:text-amber-ink"
+                    >
+                      <span>
+                        {ui.common.viewOfficeIn} {office.city}
+                      </span>
+                      <ArrowUpRight className="h-4 w-4 text-amber-ink" aria-hidden="true" />
+                    </AppLink>
+                    <a
+                      href={office.googleMapsSearchUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-xs text-ink-muted underline hover:text-ink"
+                    >
+                      {ui.common.googleMapsDirections}
+                    </a>
+                  </div>
+                </StaggerRevealItem>
+              );
+            })}
           </StaggerRevealGroup>
         </div>
       </section>

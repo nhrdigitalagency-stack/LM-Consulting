@@ -120,16 +120,31 @@ export function ServicesInteractiveList({
           y: hoveredSlug && !prefersReduced ? 0 : 8,
         }}
         transition={{ duration: 0.22, ease: [0.22, 1, 0.36, 1] }}
-        className="pointer-events-none mt-6 hidden border border-ink/15 bg-midnight p-6 text-on-midnight lg:block"
+        className="pointer-events-none mt-6 hidden border border-ink/15 bg-midnight p-5 text-on-midnight lg:block"
       >
         <div className="flex items-center justify-between gap-6">
-          <div>
-            <p className="editorial-caption text-gold">
-              {ui.common.previewPrefix} {activeService.number} · {activeService.category}
-            </p>
-            <p className="mt-1.5 font-editorial text-2xl text-on-midnight">
-              {activeService.previewPalette.caption}
-            </p>
+          <div className="flex items-center gap-5">
+            <img
+              src={
+                ['conseil-en-gestion-controle', 'business-plan-et-financement', 'solutions-fintech'].includes(
+                  activeService.slug
+                )
+                  ? '/assets/photos/finance-strategy-desk.jpg'
+                  : '/assets/photos/advisory-meeting.jpg'
+              }
+              alt=""
+              width={160}
+              height={96}
+              className="h-16 w-28 shrink-0 border border-gold/30 object-cover"
+            />
+            <div>
+              <p className="editorial-caption text-gold">
+                {ui.common.previewPrefix} {activeService.number} · {activeService.category}
+              </p>
+              <p className="mt-1.5 font-editorial text-2xl text-on-midnight">
+                {activeService.previewPalette.caption}
+              </p>
+            </div>
           </div>
           <div className="text-right text-xs text-on-midnight-muted">
             <span>LM CONSULTING · Yaoundé · Douala</span>
